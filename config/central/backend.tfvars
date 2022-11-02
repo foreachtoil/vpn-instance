@@ -1,0 +1,5 @@
+profile = "fet-aws"
+key = "aws/vpn.tfstate"
+bucket = "fet-aws-tfstates"
+region = "us-east-1"
+dynamodb_table = "fet-aws-lock"
